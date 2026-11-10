@@ -1,0 +1,26 @@
+[package]
+name = "diskvibe"
+version = "0.1.0"
+edition = "2021"
+description = "Disk space inspector and cleaner: explorer, treemap, filters, duplicates, cleanup advice, CLI and MCP server"
+authors = ["Circuit Biscuit"]
+
+[dependencies]
+eframe = "0.29"
+egui_extras = "0.29"
+rfd = "0.15"
+rayon = "1"
+serde_json = "1"
+regex = "1"
+chrono = "0.4"
+blake3 = "1"
+sysinfo = "0.32"
+trash = "5"
+open = "5"
+
+[build-dependencies]
+winresource = "0.1"
+
+[profile.release]
+lto = "thin"
+strip = true

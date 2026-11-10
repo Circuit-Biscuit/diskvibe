@@ -1,0 +1,4 @@
+/target
+/dist
+# the code-signing key and its password never go into git
+/signing

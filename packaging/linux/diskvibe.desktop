@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=DiskVibe
+Comment=Disk space inspector and cleaner
+Exec=diskvibe %f
+Icon=diskvibe
+Categories=Utility;System;Filesystem;
+Terminal=false
