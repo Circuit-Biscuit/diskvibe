@@ -240,3 +240,5 @@ Running the Release workflow by hand rebuilds every download for the current ver
 Built with Rust, egui / eframe, rayon, BLAKE3, sysinfo, regex, chrono, trash, rfd, open and winresource.
 
 If DiskVibe saved you some space, you can [buy me a coffee](https://buymeacoffee.com/chao.k).
+
+[![M8ven Score](https://m8ven.ai/badge/mcp/circuit-biscuit-diskvibe-fikbn0?v=93824ba59dd64296f789dc431015490f)](https://m8ven.ai/mcp/circuit-biscuit-diskvibe-fikbn0?s=readme)
